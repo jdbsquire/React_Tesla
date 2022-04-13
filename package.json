@@ -2,6 +2,9 @@
   "name": "tesla-cline",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.14.2"
+  },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@mui/icons-material": "^5.5.1",
